@@ -177,4 +177,3 @@ This project is developed as a hackathon submission by Yash Kamra & Tanya Goyank
 
 ---
 
-**Built with ❤️ for revolutionizing credit intelligence**
