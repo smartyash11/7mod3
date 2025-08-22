@@ -1,0 +1,9 @@
+# FastAPI framework and Uvicorn server for building the high-performance API
+fastapi
+uvicorn[standard]
+
+# This library is used to make HTTP requests to other microservices and external APIs
+requests
+
+# Pydantic is used for data validation and defining the structure of API responses
+pydantic
